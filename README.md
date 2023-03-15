@@ -36,11 +36,11 @@ I am a Python backend developer <img src="https://media.giphy.com/media/WUlplcMp
 
 <h1 align="center">My stats</h5>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsenUtebayev&layout=compact&theme=vision-friendly-dark" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsenUtebayev&layout=compact" width="400"/>
 </div>
 
 <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=UsenUtebayev&theme=dark&background=000000" width="400"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=UsenUtebayev&theme=white&background=ffffff" width="400"/>
 </div>
 
 <div align="center">
