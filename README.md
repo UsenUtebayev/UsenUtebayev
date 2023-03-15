@@ -15,3 +15,34 @@
   </h1>
 </div>
 
+### :woman_technologist: About Me
+I am a Python backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+- :telescope: I’m working as a Software Engineer and contributing backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, i prefer play on guitar and draw
+
+- :mailbox:How to reach me: https://t.me/utebayevUssen
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>&nbsp;
+</div>
+
+<h1 align="center">My stats</h5>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsenUtebayev&layout=compact&theme=vision-friendly-dark" width="400"/>
+</div>
+
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=UsenUtebayev&theme=dark&background=000000" width="400"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=UsenUtebayev&show_icons=true&theme=transparent" width="400"/>
+</div>
