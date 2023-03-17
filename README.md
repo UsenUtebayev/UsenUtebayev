@@ -15,7 +15,7 @@
   </h1>
 </div>
 
-### :woman_technologist: About Me
+### :👨‍💻: About Me
 I am a Python backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 - :telescope: I’m working as a Software Engineer and contributing backend for building web applications.
 
